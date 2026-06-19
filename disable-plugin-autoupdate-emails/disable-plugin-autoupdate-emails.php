@@ -3,7 +3,7 @@
 /*
  * Plugin Name: Disable Plugin Autoupdate Emails
  * Description: Getting too many "plugin updated" or "theme updated" emails since WordPress 5.5? This turns them off.
- * Version: 1.1.4
+ * Version: 1.1.5
  * Author: Shaun Simmons
  * Author URI: https://github.com/simshaun
  * License: GPL2

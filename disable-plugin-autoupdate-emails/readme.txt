@@ -2,8 +2,8 @@
 Contributors: simshaun
 Tags: updates, autoupdates, disable autoupdate email
 Requires at least: 5.5
-Tested up to: 6.9.4
-Stable tag: 6.9.4
+Tested up to: 7.0.0
+Stable tag: 7.0.0
 Requires PHP: 5.3
 License: GPLv2
 License URI: https://www.gnu.org/licenses/gpl-2.0.html
@@ -19,6 +19,9 @@ On WordPress 5.5.0, plugin/theme autoupdate emails are turned off regardless of 
 Since WordPress 5.5.1, emails indicating update failures are allowed through.
 
 == Changelog ==
+
+= 1.1.5 =
+* Bump support to WordPress 7.0.0
 
 = 1.1.4 =
 * Bump support to WordPress 6.9.4
